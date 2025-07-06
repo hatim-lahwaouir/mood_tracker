@@ -1,0 +1,4 @@
+[] save an idea  with time
+[] getting your idea with time
+[] using cli for entring the idea  and also the mood at that time
+
